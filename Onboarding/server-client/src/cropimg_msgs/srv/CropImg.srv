@@ -1,0 +1,6 @@
+int32 x_pix # top left corner pixel x
+int32 y_pix # top left corner pixel y
+int32 x_width # crop width
+int32 y_width # crop width
+---
+sensor_msgs/Image cropimg
